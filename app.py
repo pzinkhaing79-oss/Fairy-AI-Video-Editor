@@ -21,7 +21,7 @@ st.markdown("""
     }
     h1 { color: #D81B60; font-family: 'Comic Sans MS', cursive; }
     </style>
-    """, unsafe_allow_尊_html=True)
+    """, unsafe_allow__html=True)
 
 st.title("🧚‍♀️ Fairy AI Video Translator 🌸")
 st.subheader("Gemini 3 Flash Premium Edition")
