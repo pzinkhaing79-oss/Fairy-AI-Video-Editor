@@ -1,6 +1,7 @@
 streamlit
 google-generativeai
 openai-whisper
-moviepy
-pydub
-ffmpeg-python
+moviepy==1.0.3
+proglog
+imageio==2.25.1
+imageio-ffmpeg
